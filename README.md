@@ -1,6 +1,6 @@
-<code>🎓 Student: KPI / IO-04</code>
-<code>👷 Speciality:Embedded Software engineer</code><br>
+<code>🎓 Student</code>
+<code>👷 Speciality:Embedded engineer</code><br>
 <code>🧑‍💻 Languages: yocto project, C++</code>
 <code>[Skills](SKILLS.md)</code>
-<code>💬 telegram: [@your-nikname](https://telegram.me/artbyk34)</code>
-<code>📫 [your-email](mailto:artum128@gmail.com)</code>
+<code>💬 telegram: [@artbyk34](https://telegram.me/artbyk34)</code>
+<code>📫 [artum128@gmail.com](mailto:artum128@gmail.com)</code>
