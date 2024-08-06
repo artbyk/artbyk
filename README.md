@@ -1,4 +1,4 @@
-<code>🎓Bachelor of Science in Computer Science from Kyiv Polytechnic Institute</code>
+<code>🎓Bachelor of Science in Computer Science</code>
 <code>👷 Speciality:Smart Contract Engineer, Security Researcher</code><br>
 <code>💬 telegram: [@incom_call](https://t.me/incom_call)</code>
 <code>💬 x.com: [@ChucklerTom](https://x.com/ChucklerTom)</code>
